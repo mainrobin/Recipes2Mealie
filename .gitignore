@@ -1,0 +1,11 @@
+# Working data: extracted recipe text, LLM output, upload state, report.
+# Contains copies of recipe content and local file paths - keep private.
+work/
+work-*/
+*.csv
+
+# Secrets
+.env
+
+__pycache__/
+recipes2mealielocal.py
